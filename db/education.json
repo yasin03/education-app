@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "React Native Eğitimi",
+    "description": "Mobil Uygulama ve Geliştirme Eğitimin temel amacı, (işletim sistemlerinden bağımsız) Android ve IOSuygulamaları geliştirmenin temelleri, proje oluşturmadan fiziksel cihaza yüklemeye kadar ki süreç ve uygulamalı eğitimidir. Mobil Uygulama Yazılım Kursu sonunda katılımcı ister Android ister IOS uygulama ve servislerini hazırlayabilecektir. Standart geliştirme araçlarının kullanımı, mobil uygulama geliştirme süreçleri ve hedef platformların püf noktalarını belirlemektir.İlk 3 madde teorik bilgiler ile verilecektir. Buradaki amaç öğrencinin bilinçli olarak yazılım geliştirmeye başlamasıdır.",
+    "image": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "start_date": "12 Mart",
+    "end_date": "15 Nisan",
+    "duration": "210 saat",
+    "type": "Online"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript Eğitimi",
+    "description": "Mobil Uygulama ve Geliştirme Eğitimin temel amacı, (işletim sistemlerinden bağımsız) Android ve IOSuygulamaları geliştirmenin temelleri, proje oluşturmadan fiziksel cihaza yüklemeye kadar ki süreç ve uygulamalı eğitimidir. Mobil Uygulama Yazılım Kursu sonunda katılımcı ister Android ister IOS uygulama ve servislerini hazırlayabilecektir. Standart geliştirme araçlarının kullanımı, mobil uygulama geliştirme süreçleri ve hedef platformların püf noktalarını belirlemektir.İlk 3 madde teorik bilgiler ile verilecektir. Buradaki amaç öğrencinin bilinçli olarak yazılım geliştirmeye başlamasıdır.",
+    "image": "https://enstitu.ibb.istanbul/files/ismekOrg/Image/img_brans/brans_yenisitegaleri/javascript-web-arayuz-programciligina-giris/3.jpg",
+    "start_date": "12 Mart",
+    "end_date": "15 Nisan",
+    "duration": "150 saat",
+    "type": "Yüz Yüze"
+  },
+  {
+    "id": 3,
+    "name": "Yazılım Uzmanlığı Eğitimi",
+    "description": "Mobil Uygulama ve Geliştirme Eğitimin temel amacı, (işletim sistemlerinden bağımsız) Android ve IOSuygulamaları geliştirmenin temelleri, proje oluşturmadan fiziksel cihaza yüklemeye kadar ki süreç ve uygulamalı eğitimidir. Mobil Uygulama Yazılım Kursu sonunda katılımcı ister Android ister IOS uygulama ve servislerini hazırlayabilecektir. Standart geliştirme araçlarının kullanımı, mobil uygulama geliştirme süreçleri ve hedef platformların püf noktalarını belirlemektir.İlk 3 madde teorik bilgiler ile verilecektir. Buradaki amaç öğrencinin bilinçli olarak yazılım geliştirmeye başlamasıdır.",
+    "image": "https://www.aribilgi.com/wp-content/uploads/2020/11/YAZILIM-UZMANLIGI-01-scaled-e1610211875531.jpg",
+    "start_date": "12 Mart",
+    "end_date": "15 Nisan",
+    "duration": "220 saat",
+    "type": "Hybrit"
+  },
+  {
+    "id": 4,
+    "name": "Python Eğitimi",
+    "description": "Python kursu, yazılımcıların hayranlık duydukları Python dili, değişik uygulama ve projelerle karşımıza çıkıyor. Python kolay öğrenme sayesinde ve kolay anlaşılır cümle yapısıyla, herhangi bir alt yapısı olmayan herkesin öğrenebileceği bir dil. Web tarafında da çok tercih ediliyor. Django frameworks ve MongoDB ile zaten çok kuvvetli bir programlama dili. Machine Learning dediğimiz robotik teknolojiler içinde biçilmiş kaftan diyebiliriz. Sanırım Python uzun yıllar yazılım sektörüne hizmet eden bir dil olacak. Python eğitiminden sonra C# ve PHP öğrenmek isteyebilirsiniz. Python, günümüzün IT dünyasında en popüler programlama dilidir. Bu yüzden ‘Python ile ne yapabilirim? O zaman cevap “Her şey” olacaktır. Bu, yalnızca belirli bir alanla sınırlı olmadığı, çeşitli alanlarda geniş bir kapsama sahip olduğu anlamına gelir. Örneğin – Web Geliştirme, Hacking, Veri analizi, Makine öğrenimi, Oyun geliştirme web kazıma ve daha fazlası. Dahası, Python ile yapılabilecek çeşitli seçeneklerin neler olduğunu göreceğiz. Ancak ilerlemeden önce Python’un temel bilgilerini göreceğiz.",
+    "image": "https://www.aribilgi.com/wp-content/uploads/2020/10/PYTHON-BANNER-01-scaled.jpg",
+    "start_date": "12 Mart",
+    "end_date": "15 Nisan",
+    "duration": "120 saat",
+    "type": "Online"
+  },
+  {
+    "id": 5,
+    "name": "SQL Developing Databases Eğitimi",
+    "description": "Mobil Uygulama ve Geliştirme Eğitimin temel amacı, (işletim sistemlerinden bağımsız) Android ve IOSuygulamaları geliştirmenin temelleri, proje oluşturmadan fiziksel cihaza yüklemeye kadar ki süreç ve uygulamalı eğitimidir. Mobil Uygulama Yazılım Kursu sonunda katılımcı ister Android ister IOS uygulama ve servislerini hazırlayabilecektir. Standart geliştirme araçlarının kullanımı, mobil uygulama geliştirme süreçleri ve hedef platformların püf noktalarını belirlemektir.İlk 3 madde teorik bilgiler ile verilecektir. Buradaki amaç öğrencinin bilinçli olarak yazılım geliştirmeye başlamasıdır.",
+    "image": "https://miro.medium.com/v2/resize:fit:1024/1*qWofePMDZwMzoVNnHs__dQ.jpeg",
+    "start_date": "12 Mart",
+    "end_date": "15 Nisan",
+    "duration": "110 saat",
+    "type": "Hybrid"
+  }
+]
