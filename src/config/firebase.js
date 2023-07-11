@@ -1,6 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-import { getFirestore, collection, onSnapshot } from "firebase/firestore";
+import { getFirestore, collection, onSnapshot, query, where } from "firebase/firestore";
 import { useEffect, useState } from "react";
 
 const firebaseConfig = {
@@ -16,7 +16,7 @@ const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
 
-const trainingsRef = collection(db, "trainings");
+export const trainingsRef = collection(db, "trainings");
 
 export const useTrainingsLister = () => {
   const [trainings, setTrainings] = useState([]);
